@@ -12,7 +12,7 @@
 4. npm test
 5. Pull Request
 
-## Palindrome
+## Factorialize
 - Write a function that takes a single integer and factorializes it. 
 For, e.g. if given 3, then the answer would be 6, because 1 * 2 * 3 = 6.
  
