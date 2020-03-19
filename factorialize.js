@@ -1,7 +1,9 @@
 //FACTORIALIZE
-const factorialize = num => {
- 
+
+const factorialize = (num) => {
+
 }
+
 console.log(factorialize(4))
 
 module.exports = {

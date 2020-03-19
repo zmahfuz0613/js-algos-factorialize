@@ -1,19 +1,23 @@
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) SOFTWARE ENGINEERING IMMERSIVE
 
+## Mini Algorithm Exercise
 
+"Factorialize"
 
-# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  SOFTWARE ENGINEERING IMMERSIVE
+### Objectives
 
-# Algo-a-day
+- Create a function that accepts an integer as an argument and factorializes that integer.
+- The output should return an integer.
 
+### Getting Started
 
-1. Fork
-2. Clone
-3. npm i
-4. npm test
-5. Pull Request
+- Fork and clone this repo.
+- Run `npm i` from within the repo.
+- Run `npm run test` or `npm test` to make sure the tests work. (They should fail.)
+- Get hacking on the problem and test when you think you've got it!
 
-## Factorialize
-- Write a function that takes a single integer and factorializes it. 
-For, e.g. if given 3, then the answer would be 6, because 1 * 2 * 3 = 6.
- 
+### Notes
 
+By definition, a factorial is the product of the integer and all the integers beneath it.
+
+Pull requests due by 11pm. Happy hacking!

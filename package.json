@@ -1,8 +1,8 @@
 {
-  "name": "groupArrays",
+  "name": "factorialize",
   "version": "1.0.0",
   "description": "",
-  "main": "groupArrays.js",
+  "main": "factorialize.js",
   "scripts": {
     "test": "jest"
   },
