@@ -4,10 +4,18 @@
 
 "Factorialize"
 
+_Language: JavaScript_
+
+_Difficulty: Easy_
+
 ### Objectives
 
 - Create a function that accepts an integer as an argument and factorializes that integer.
 - The output should return an integer.
+
+#### Notes
+
+By definition, a factorial is the product of the integer and all the integers less than it's value.
 
 ### Getting Started
 
@@ -15,9 +23,5 @@
 - Run `npm i` from within the repo.
 - Run `npm run test` or `npm test` to make sure the tests work. (They should fail.)
 - Get hacking on the problem and test when you think you've got it!
-
-### Notes
-
-By definition, a factorial is the product of the integer and all the integers beneath it.
 
 Pull requests due by 11pm. Happy hacking!
