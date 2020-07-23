@@ -1,6 +1,6 @@
 let algos = require("../factorialize.js")
 
-//FACTORIALIZE
+//FACTORIALIZE...
 
 test("factorialize", () => {
   expect(algos.factorialize(8)).toBe(40320)
